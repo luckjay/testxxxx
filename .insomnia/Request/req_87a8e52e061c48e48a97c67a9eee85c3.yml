@@ -1,0 +1,23 @@
+_id: req_87a8e52e061c48e48a97c67a9eee85c3
+type: Request
+parentId: wrk_017616b111194a33a941621d996ccba9
+modified: 1702354176967
+created: 1702354154554
+url: https://localhost:8005
+name: get
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/8.4.5
+authentication: {}
+metaSortKey: -1702354154554
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
