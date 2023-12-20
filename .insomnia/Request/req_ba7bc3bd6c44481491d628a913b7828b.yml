@@ -1,19 +1,19 @@
-_id: req_87a8e52e061c48e48a97c67a9eee85c3
+_id: req_ba7bc3bd6c44481491d628a913b7828b
 type: Request
-parentId: wrk_017616b111194a33a941621d996ccba9
-modified: 1703059857288
-created: 1702354154554
-url: https://localhost:8005
-name: localhost
+parentId: fld_7216ec398a674db09740c2481d773920
+modified: 1703059847314
+created: 1703059829019
+url: https://httpbin.org/post
+name: /post
 description: ""
-method: GET
+method: POST
 body: {}
 parameters: []
 headers:
   - name: User-Agent
-    value: insomnia/8.4.5
+    value: insomnia/8.5.0-beta.0
 authentication: {}
-metaSortKey: -1702354154554
+metaSortKey: -1703059829019
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

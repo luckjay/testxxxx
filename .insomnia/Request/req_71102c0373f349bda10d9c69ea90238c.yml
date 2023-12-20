@@ -1,0 +1,28 @@
+_id: req_71102c0373f349bda10d9c69ea90238c
+type: Request
+parentId: fld_c5152f34942041838198cc267b897b3d
+modified: 1703060013077
+created: 1703059908433
+url: https://countries.trevorblades.com/
+name: queries
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: '{"query":"query ListCountries {\n\tcountries
+    {\n\t\tcode\n\t\tname\n\t}\n}\n","operationName":"ListCountries"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/8.5.0-beta.0
+authentication: {}
+metaSortKey: -1703059908433
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
